@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "gen-ai-playground"
+version = "0.1.0"
+description = ""
+authors = ["Abel"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "gen_ai_playground"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+sentence-transformers = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
