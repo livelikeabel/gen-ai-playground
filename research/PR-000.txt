@@ -1,0 +1,10 @@
+PR-001: Generative adversarial nets by Jaejun Yoo
+- https://www.youtube.com/watch?v=L3hz57whyNw
+
+
+PR-366: A ConvNet for the 2020s
+- https://www.youtube.com/watch?v=Mw7IhO2uBGc
+
+
+PR-014: On Human Motion Prediction using RNNs
+- https://www.youtube.com/watch?v=Y1loN3Sc4Dk
