@@ -1,0 +1,5 @@
+https://huggingface.co/tasks/sentence-similarity
+
+- Passage Ranking
+
+- Semantic Textual Similarity
