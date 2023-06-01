@@ -10,6 +10,8 @@ packages = [{include = "gen_ai_playground"}]
 [tool.poetry.dependencies]
 python = "^3.10"
 sentence-transformers = "^2.2.2"
+langchain = "^0.0.187"
+openai = "^0.27.7"
 
 
 [build-system]
